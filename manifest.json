@@ -1,0 +1,9 @@
+﻿{
+  "name": "ForsakenPowersRevisited",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Gerbesh/Forsaken-Powers-revisited",
+  "description": "Honest Forsaken Powers overhaul for Valheim. Strict boss-based unlocks, server-side safety, no extra dependencies.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
